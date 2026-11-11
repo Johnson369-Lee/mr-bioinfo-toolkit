@@ -1,0 +1,15 @@
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# 输出
+/output/
+*.html
+*.pdf
+
+# 系统
+.DS_Store
+Thumbs.db
